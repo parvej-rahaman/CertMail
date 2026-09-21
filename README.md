@@ -233,4 +233,4 @@ MIT
 
 ## Author
 
-**Devjit Panja** — [LinkedIn](https://www.linkedin.com/in/devjitpanja/)
+**Parvej Rahaman** — [LinkedIn](www.linkedin.com/in/parvej-rahaman-b52062299)
