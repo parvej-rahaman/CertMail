@@ -1,4 +1,4 @@
-# WiMailer — Certificate Generator & Bulk Mailer
+# CertMailer — Certificate Generator & Bulk Mailer
 
 A browser-based tool for generating personalised certificates from a template image and an Excel spreadsheet, with built-in bulk email delivery via SMTP.
 
